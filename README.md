@@ -1,2 +1,2 @@
-# ksanghc.github.io
-Quang Vo's electronic portfolio.
+# Quang Vo's electronic portfolio.
+Website containing education, work experience, projects, skills, and resume.
